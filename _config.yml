@@ -110,7 +110,7 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       sidebar: right      # Possible values › left, right › by default there will be no sidebar
-      comments: false
+      comments: true
       author: ogenstad     # Default author for posts
 
 
@@ -195,7 +195,7 @@ og_description:                     "Script your documentation with the SYDI too
 #
 # used in _includes/comments
 
-disqus_shortname: #feelingresponsive
+disqus_shortname: sydiproject
 
 
 #      _____
