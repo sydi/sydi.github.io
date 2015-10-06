@@ -5,7 +5,7 @@
   title: "Contact"
 
 - name: "RSS"
-  url: "/feed.xml"
+  url: "http://feeds.sydiproject.com/Sydi"
   title: "Subscribe to RSS Feed"
 
 - name: "Email"
