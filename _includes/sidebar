@@ -1,15 +1,21 @@
 <aside>
 	<div class="panel radius">
-		<h3>Sidebar</h3>
+		<h3>More Patrick</h3>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			If you like SYDI be sure to check out my <a href="http://networklore.com">other site</a>.
 		</p>
 	</div>
 
-  <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">
-
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- SYDI-Jekyll-Sidebar -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-6994251543526918"
+	     data-ad-slot="8554455373"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
 
 	<div class="border-dotted radius b30">
 		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">
