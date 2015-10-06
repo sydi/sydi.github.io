@@ -25,7 +25,3 @@ In order to allow this communication you would have to change the group policy f
 In a domain environment you can change this setting under; Computer Configuration -&gt; Administrative Templates -&gt; Network -&gt; Network Connections -&gt; Windows Firewall -&gt; Domain Profile -&gt; Windows Firewall: Allow remote administration exception. Change the state to Enabled and in the Allow unsolicited incoming messages from field enter the ip address of the machine(s) you will be running SYDI from.
 
 If the machine resides outside a domain you can edit the local group policy by opening up a local group policy from a snap-in in mmc.exe.
-
-So now we have nine translation files, the other ones are: Danish, Dutch, English, German, Italian, Norwegian, Portuguese and of course Swedish :)
-
-If you want another language it's really easy to create one. Just open the lang_english.xml file in notepad and compare it to one of the other ones. Even if you don't understand the other language you will see what to do.
