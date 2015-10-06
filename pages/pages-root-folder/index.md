@@ -23,13 +23,6 @@ widget3:
   title: "Getting Started"
   url: '/getting-started/'
   text: 'If you have downloaded SYDI and don&#39;t know what to do next. Don&#39; worry, once you&#39;ve tested it it&#39;s easy to use. If you still get stuck please let me know and I&#39;ll try to improve the documentation'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: cup-of-morning-coffee-and-croissants.jpg
 permalink: /index.html
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
