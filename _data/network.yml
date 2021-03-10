@@ -1,11 +1,11 @@
 - menu_name: "Credits"
 
 - name: "Patrick Ogenstad"
-  url: "http://networklore.com/"
+  url: "https://networklore.com/"
   class: "network-entypo"
   title: "Creator of SYDI"
 
-- name: "Conscia Netsafe"
-  url: "http://www.netsafe.se/"
+- name: "Conscia"
+  url: "https://conscia.com/"
   class: "network-entypo"
   title: "Where Patrick works"
