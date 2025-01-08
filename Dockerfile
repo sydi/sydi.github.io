@@ -1,4 +1,4 @@
-FROM ruby:2.6.3-buster
+FROM ruby:3.2.6-bullseye
 
 ENV RUBYOPT="-KU -E utf-8:utf-8"
 EXPOSE 4000
